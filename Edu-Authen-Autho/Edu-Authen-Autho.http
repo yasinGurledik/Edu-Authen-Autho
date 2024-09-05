@@ -1,0 +1,6 @@
+@Edu_Authen_Autho_HostAddress = http://localhost:5255
+
+GET {{Edu_Authen_Autho_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
